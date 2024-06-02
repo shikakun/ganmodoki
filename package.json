@@ -1,7 +1,7 @@
 {
   "name": "@shikakun/ganmodoki",
   "description": "A handcrafted icon library.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "main": "./dist/index.umd.cjs",
   "module": "./dist/index.js",
